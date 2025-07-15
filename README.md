@@ -26,9 +26,9 @@
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-khan09/)
+[LinkedIn](https://www.linkedin.com/in/amna-khan09/)
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Amnakhan09)
+[Hugging Face](https://huggingface.co/Amnakhan09)
 
 📧 amnakhang09876@gmail.com
 
