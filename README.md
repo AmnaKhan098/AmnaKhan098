@@ -26,9 +26,9 @@
 
 
 ## 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/amna-khan09/)
+LinkedIn: https://www.linkedin.com/in/amna-khan09/
 
-[Hugging Face](https://huggingface.co/Amnakhan09)
+Hugging Face: https://huggingface.co/Amnakhan09
 
 📧 amnakhang09876@gmail.com
 
