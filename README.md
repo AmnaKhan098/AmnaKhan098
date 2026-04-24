@@ -3,8 +3,8 @@
 
 ---
 
-- 🔭 I’m currently working on **LangGraph for multi-agent orchestration**
-- 🌱 I’m currently learning **generative AI frameworks and advanced NLP techniques**
+- 🔭 I’m currently working on **Multi-agent systems**
+- 🌱 I’m currently learning **Creating Automations using N8N and Retell AI**
 - 🎯 Passionate about pushing AI boundaries to solve real-world problems
 
 ---
