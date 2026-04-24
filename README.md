@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **Multi-agent systems**
-- 🌱 I’m currently **Creating Automations using N8N and Retell AI**
+- 🌱 I’m **Creating Automations using N8N and Retell AI**
 - 🎯 Passionate about pushing AI boundaries to solve real-world problems
 
 ---
